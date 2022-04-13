@@ -1,21 +1,8 @@
 {
   "tokens0": 
   {
-    "title": "SNFT",
-    "type": "object",
-    "properties": {
-        "blood": {
-            "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
-        },
-        "description": {
-            "type": "string",
-            "description": "Describes the asset to which this NFT represents"
-        },
-        "image": {
-            "type": "string",
-            "description": "https://drfs.ctcontents.com/file/21975350/567777677/9cad75/NFT/sheep.jpg"
-        }
-    }
- }
+    "name": "NFT Art",
+    "description": "This image shows the true nature of NFT.",
+    "image": "https://drfs.ctcontents.com/file/21975350/567777677/9cad75/NFT/sheep.jpg"
+  }
 }
