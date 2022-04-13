@@ -1,23 +1,21 @@
 {
-  "tokens": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
+  "tokens0": 
   {
-    "id": 2,
-    "title": "Token 2"
-  },
-  {
-    "id": 3,
-    "title": "Token 3"
-  },
-  {
-    "id": 4,
-    "title": "Token 4"
-  }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "title": "SNFT",
+    "type": "object",
+    "properties": {
+        "blood": {
+            "type": "string",
+            "description": "Identifies the asset to which this NFT represents"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes the asset to which this NFT represents"
+        },
+        "image": {
+            "type": "string",
+            "description": https://drfs.ctcontents.com/file/21975350/567777677/9cad75/NFT/sheep.jpg"
+        }
+    }
+ }
 }
